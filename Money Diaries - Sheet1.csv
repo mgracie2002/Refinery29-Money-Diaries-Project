@@ -1,0 +1,51 @@
+Date,Day of Week,City/Region,State,Country,Income,Individual Income,Joint,Industry,Age,Lives Alone,Went to College,Paid for Own Undergrad,Rents or Owns,Total Assets,Debt,Housing Costs per Month,Total Spent in Week,R29 Love Reactions,R29 Impressed Reactions,R29 Surprised Reactions,R29 Angry Reactions,R29 Number of Comments
+01/24/2025,Friday,Pittsburgh,PA,United States,102750,102750,Yes,Academia,27,"No, with partner",Yes,No,Rents,245000,0,2860,272.65,30,4,1,20,32
+01/22/2025,Wednesday,Philadelphia,PA,United States,374000,190000,Yes,Government,51,"No, with partner",Yes,No,Rents,2532405,11542,2625,1072.83,98,7,13,52,90
+01/20/2025,Monday,New York,NY,United States,107141,107141,No,Technology,25,"No, with roommate(s)",Yes,No,Rents,171392.44,0,2600,633.07,50,11,9,49,47
+01/17/2025,Friday,New York,NY,United States,103000,103000,No,Media,41,Yes,Yes,Yes,Rents,90244.08,0,2250,1062.89,68,11,9,21,73
+01/15/2025,Wednesday,Los Angeles,CA,United States,137000,67000,Yes,Environmental,27,"No, with partner",Yes,No,Rents,23350,0,1650,242.14,149,9,2,1,23
+01/13/2025,Monday,Detroit suburbs,MI,United States,350000,150000,Yes,Government,36,"No, with partner",Yes,Yes,Owns,778000,900000,6500,2929.03,63,24,7,39,110
+01/10/2025,Friday,Bay Area,CA,United States,122000,122000,No,"Education, Mental Health",35,"No, with roommate(s)",Yes,No,Rents,203489,0,1500,522.36,104,12,5,12,21
+01/08/2025,Wednesday,New York,NY,United States,500000,500000,No,Finance,32,Yes,Yes,No,Owns,7470000,0,3000,838.74,70,44,12,154,128
+01/06/2025,Monday,Central Minnesota,MN,United States,135002,69319,Yes,Education,28,"No, with partner",Yes,Yes,Owns,268958,221620,1679,308.78,121,13,0,2,105
+01/03/2025,Friday,Mexico City,N/A,Mexico,98000,98000,No,Nonprofit,36,Yes,Yes,No,Rents,289700,0,790,97.94,87,7,3,143,90
+01/01/2025,Wednesday,New York,NY,United States,165000,165000,No,Finance,28,"No, with partner",Yes,No,Rents,280943,0,2700,751.18,163,10,8,36,74
+12/30/2024,Monday,Boston,MA,United States,285000,116820,Yes,Government,31,"No, with partner",Yes,No,Rents,219834,14152,2000,147.58,153,47,1,16,14
+12/27/2024,Friday,New York,NY,United States,90000,90000,No,"Media, Publishing",31,"No, with roommate(s)",Yes,Yes,Rents,258247,14203.61,1240,493.1,148,22,1,15,29
+12/25/2024,Wednesday,Toronto,N/A,Canada,65238.45,65238.45,No,Government,29,Yes,Yes,No,Rents,224817.51,0,1241.32,318.69,47,3,12,22,22
+12/23/2024,Monday,Kansas City Metro,KS,United States,59000,45000,Yes,Retail,32,"No, with partner",Yes,Yes,Rents,36452,21227,0,574.45,14,3,56,206,167
+12/20/2024,Friday,Boston,MA,United States,380000,380000,No,Technology,35,Yes,Yes,No,Owns,1735000,0,2400,418.36,52,13,9,134,75
+12/18/2024,Wednesday,Raleigh,NC,United States,78000,78000,No,Accounting,24,"No, with roommate(s)",Yes,No,Rents,199170,22243,800,315.38,59,6,1,1,40
+12/16/2024,Monday,Montana,MT,United States,210000,81000,Yes,Government,42,"No, with partner",Yes,Yes,Owns,3100400,459500,2360,1605.98,119,34,1,12,44
+12/13/2024,Friday,Los Angeles,CA,United States,79500,79500,Yes,Education,56,"No, with partner",Yes,No,Rents,44750,500,2850,362.07,50,4,20,36,70
+12/11/2024,Wednesday,Providence,RI,United States,100000,100000,No,Higher education,41,"No, with partner",Yes,Yes,Owns,45822.83,405809.95,3056,464.59,86,7,2,37,90
+12/09/2024,Monday,Indianapolis,IN,United States,50000,50000,No,Nonprofit,34,"No, with partner",Yes,No,Owns,222400,159100,2600,252.82,56,8,3,0,29
+12/06/2024,Friday,Los Angeles,CA,United States,154000,24000,Yes,Law,29,"No, with partner",Yes,No,Rents,1108000,0,0,246.09,109,12,4,59,57
+12/04/2024,Wednesday,Tampa,FL,United States,154000,87500,Yes,Software,33,"No, with partner",Yes,No,Owns,400000,0,400,3176.96,31,6,13,126,72
+12/02/2024,Monday,Boston,MA,United States,70000,70000,No,Law,23,Yes,Yes,Yes,Owns,13000,340800,1600,280.21,78,46,5,30,23
+11/29/2024,Friday,Seoul,N/A,South Korea,1600,1600,No,Humanities studies,22,"No, with roommate(s)",Yes,No,Rents,19600,0,495,248.4,131,14,3,26,14
+11/27/2024,Wednesday,Northern California,CA,United States,310000,110000,Yes,Food industry,32,"No, with partner",Yes,No,Owns,1460000,320000,2800,1194.9,71,15,3,34,26
+11/25/2024,Monday,Chicago,IL,United States,87000,87000,No,Pharma advertising,25,"No, with partner",Yes,No,Rent,56683,8116,1400,464.13,54,3,2,18,15
+11/22/2024,Friday,Michigan,MI,United States,28000,28000,No,Healthcare,23,"No, with family",Yes,No,Rents,88063.54,0,0,415.74,111,34,1,35,34
+11/20/2024,Wednesday,Hampton Roads,VA,United States,53501,53501,No,Education,23,Yes,Yes,Yes,Rents,18000,22000,1050,203.15,65,7,25,41,22
+11/18/2024,Monday,New York,NY,United States,139000,139000,No,Nonprofit,30,Yes,Yes,No,Rents,750000,92000,2100,985.76,186,11,3,13,75
+11/15/2024,Friday,San Diego,CA,United States,475000,60000,Yes,Healthcare,46,"No, with partner",Yes,No,Owns,7346000,0,1200,1486.96,90,22,4,153,148
+11/13/2024,Wednesday,Central Florida,FL,United States,41000,41000,No,"Local government, library services",32,"No, with partner",Yes,Yes,Rents,28988.35,14000,1900,508.65,102,7,12,2,32
+11/11/2024,Monday,San Francisco,CA,United States,1000000,0,Yes,Technology,36,"No, with partner",Yes,No,Owns,3500000,1200000,5500,3366,72,28,14,219,232
+11/08/2024,Friday,Central Pennsylvania,PA,United States,80000,80000,No,Technology,29,"No, with family",Yes,Yes,Rents,52485.35,17664,0,228.87,37,2,8,127,89
+11/06/2024,Wednesday,New York,NY,United States,120000,120000,No,Climate tech,29,"No, with roommate(s)",Yes,Yes,Rents,258165,15739.68,1850,1411.08,33,3,44,71,59
+11/04/2024,Monday,Atlantic Canada,N/A,Canada,68410.73,29791.77,Yes,"Nonprofit, heritage",26,"No, with partner",Yes,Yes,Owns,192665.24,145716.53,903.61,285.94,51,2,6,43,25
+11/01/2024,Friday,Cincinnati,OH,United States,375000,275000,Yes,Technology,37,"No, with partner",Yes,No,Owns,1538600,75000,2303,659.26,94,46,0,21,25
+10/30/2024,Wednesday,Latin America,N/A,Unknown,0,0,No,Academia,31,"No, with roommate(s)",Yes,Yes,Rents,104641,11370,483,150.47,107,24,0,6,19
+10/28/2024,Monday,Arkansas,AR,United States,175000,130000,Yes,Retail,31,"No, with partner",Yes,Yes,Rents,137576.64,123645,1850,3.32,50,20,25,101,71
+10/25/2024,Friday,DMV,Unknown,United States,215000,215000,No,Software,32,"No, with partner",Yes,No,Rents,1090000,0,1200,2033.65,51,26,10,66,64
+10/23/2024,Wednesday,Boston,MA,United States,56000,56000,No,Health,32,"No, with roommate(s)",Yes,No,Rents,49422,118000,900,276.98,85,24,1,40,23
+10/21/2024,Monday,Virginia,VA,United States,158000,44600,Yes,Higher education,34,"No, with partner",Yes,Yes,Rents,563000,133000,2880,2368.98,86,25,0,20,34
+10/18/2024,Friday,Greater Cincinnati,OH,United States,35000,35000,No,"Specialty retail, customer service/security, entertainment",25,"No, with partner",Yes,No,Rents,27000,4000,320,118.76,72,20,4,22,32
+10/16/2024,Wednesday,Oregon,OR,United States,127000,127000,No,Healthcare,28,"No, with partner",Yes,No,Rents,135300,13500,1350,604.35,81,24,5,24,39
+10/14/2024,Monday,San Francisco,CA,United States,255000,255000,No,Aviation,33,Yes,Yes,Yes,Rents,675500,36800,2275,598.57,158,48,6,46,43
+10/11/2024,Friday,Fort Garland,CO,United States,57398,57398,Yes,"General appraising, cultural history, and crafts",65,"No, with partner",Yes,Yes,Owns,858450,4500,0,707.43,240,13,5,49,92
+10/09/2024,Wednesday,Nashville,TN,United States,80000,80000,No,Manufacturing,22,Yes,Yes,No,Rents,62200,0,2000,350.42,62,8,2,66,15
+10/07/2024,Monday,Boston,MA,United States,295000,175000,Yes,Pharmaceuticals,31,"No, with partner",Yes,No,Owns,766052,382730,1974,689.5,83,6,2,51,36
+10/04/2024,Friday,NYC Suburbs,NY,United States,382994,228000,Yes,Retail trade,33,"No, with partner",Yes,No,Owns,712000,687000,5100,2878.16,44,18,10,157,32
+10/02/2024,Wednesday,Orange County,CA,United States,30000,30000,No,Academia,26,"No, with partner",Yes,No,Rents,109435,10626,800,198.13,101,3,0,15,24
